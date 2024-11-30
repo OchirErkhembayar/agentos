@@ -8,7 +8,7 @@ license = "MIT"
 homepage = "https://github.com/OchirErkhembayar/agentos"
 repository = "https://github.com/OchirErkhembayar/agentos"
 readme = "README.md"
-categories = ["agents"]
+categories = ["science"]
 keywords = ["agents", "agent", "ai"]
 include = [
   "/src",
