@@ -1,0 +1,19 @@
+[package]
+name = "agentos"
+version = "0.1.0"
+edition = "2021"
+authors = ["ochir ochire@proton.me"]
+description = ""
+licence = "MIT"
+homepage = "https://github.com/OchirErkhembayar/agentos"
+repository = "https://github.com/OchirErkhembayar/agentos"
+readme = "README.md"
+categories = ["AI"]
+keywords = ["agents", "agent", "ai"]
+include = [
+  "/src",
+  "/README.md",
+  "/LICENCE.txt"
+]
+
+[dependencies]
